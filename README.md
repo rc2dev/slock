@@ -11,6 +11,10 @@ st is a simple screen locker utility for X.
 - quickcancel
 - xresources
 
+## My own patches
+
+- Complement to mediakeys patch: allow more keys.
+
 ## Requirements
 
 In order to build slock you need the Xlib header files.
