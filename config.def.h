@@ -1,6 +1,7 @@
 /* user and group to drop privileges to */
+/* Group on Debian: nogroup. On Fedora: nobody. */
 static const char *user  = "nobody";
-static const char *group = "nobody";
+static const char *group = "nogroup";
 
 static const char *colorname[NUMCOLS] = {
 	[INIT] = "black",       /* after initialization */
