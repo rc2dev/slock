@@ -2,7 +2,7 @@
 
 Build of slock by [Rafael Cavalcanti](https://rafaelc.org/dev).
 
-st is a simple screen locker utility for X.
+slock is a simple screen locker utility for X.
 
 ## Third party patches
 
