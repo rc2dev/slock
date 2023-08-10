@@ -1,8 +1,8 @@
 # slock - simple screen locker
 
-Build of slock by [Rafael Cavalcanti](https://rafaelc.org/dev).
+Build of slock by [Rafael Cavalcanti](https://rafaelc.org/dev), 2021-2023. slock is a simple screen locker utility for X.
 
-slock is a simple screen locker utility for X.
+_Notice: To cleanly integrate updates from upstream, this branch might be rebased._
 
 ## Third party patches
 
